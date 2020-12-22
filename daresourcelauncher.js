@@ -29,8 +29,4 @@ function ButtonClickAction (zEvent) {
 
     window.open(loopnetSearchStr, "_blank");
     window.open(imageSearchStr, "_blank");
-
-    //var zNode = document.createElement ('p');
-    //zNode.innerHTML = "Loopnet".concat(addressLines[0].innerHTML, " ", addressLines[1].innerHTML);
-    //document.getElementById ("myContainer").appendChild (zNode);
 }
